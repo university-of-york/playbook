@@ -16,3 +16,16 @@ We are consistently recognised as one of the leading Higher Education Institutes
 Our [values](values.md) drive our decisions, our interactions and frame our approach.
 
 We iterate and refine them as we learn more.
+
+### How We Work
+Process
+Roles
+Service Delivery Teams
+Coming soon...
+Metrics & Measurement
+Technology
+
+### Work with us
+We are always happy to have a chat if you are interested in working in the IT/Digital area at the University.
+
+If you work in Development, UX, Business Analysis, Product or Project management, check out our [jobs](https://jobs.york.ac.uk/).
