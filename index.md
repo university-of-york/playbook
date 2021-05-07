@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to the Digital Services Playbook
+The Digital Services team at the University of York supports the delivery of the University strategy. We work across research, student experience, teaching and learning, business transformation and core systems, keeping the University productive.
 
-You can use the [editor on GitHub](https://github.com/university-of-york/playbook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We use agile methodologies, practice continuous delivery, focus on user needs and value people over technology. We are also carrying out a move to migrate to cloud services, with all the cultural transformation that involves.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We wanted to share our values and process publically, inspired by organisations like the GDS and NHS Digital.
 
-### Markdown
+### About the University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Founded on principles of excellence, equality and opportunity for all, the University of York opened in 1963 with just 230 students. In 2019 it is the home of more than 18,000 students across more than 30 academic departments and research centres. Since opening over fifty years ago, we have become one of the world's leading universities and a member of the prestigious Russell Group.
 
-```markdown
-Syntax highlighted code block
+We are consistently recognised as one of the leading Higher Education Institutes and one of just six post-war universities to have appeared in the world top 100. We were rated 22nd in the 2019 Times & Sunday Times league table. The University of York has won six Times Higher Education (THE) Awards and five Queen’s Anniversary Prizes.
 
-# Header 1
-## Header 2
-### Header 3
+### Values
 
-- Bulleted
-- List
+Our [values](values.md) drive our decisions, our interactions and frame our approach.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/university-of-york/playbook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We iterate and refine them as we learn more.
