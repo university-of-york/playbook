@@ -20,7 +20,7 @@ We iterate and refine them as we learn more.
 ### How We Work
 * [Process](process.md)
 * [Roles](roles.md)
-* (Service Delivery Teams)[service-delivery-teams.md]
+* [Service Delivery Teams](service-delivery-teams.md)
 * Coming soon...
 * Metrics & Measurement
 * Technology
