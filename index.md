@@ -18,7 +18,7 @@ Our [values](values.md) drive our decisions, our interactions and frame our appr
 We iterate and refine them as we learn more.
 
 ### How We Work
-* Process
+* [Process](process.md)
 * Roles
 * Service Delivery Teams
 * Coming soon...
