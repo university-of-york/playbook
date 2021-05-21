@@ -21,6 +21,7 @@ We iterate and refine them as we learn more.
 * [Process](process.md)
 * [Roles](roles.md)
 * [Service Delivery Teams](service-delivery-teams.md)
+* [Managing Legacy](managing-legacy.md)
 * Coming soon...
 * Metrics & Measurement
 * Technology
